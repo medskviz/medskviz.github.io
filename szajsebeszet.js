@@ -203,23 +203,22 @@ function loadQuiz(){
             f_text.parentElement.style.display = 'none'
             break;
         case 4:
-            d_text.parentElement.style.display = 'block'    
+            d_text.parentElement.style.display = ''    
             e_text.parentElement.style.display = 'none'
             f_text.parentElement.style.display = 'none'
-            console.log("---- Number of answers: ", numberOfAnswers)
             d_text.innerText = currentQuizData.d
             break;
         case 5:
-            d_text.parentElement.style.display = 'block'    
-            e_text.parentElement.style.display = 'block'
+            d_text.parentElement.style.display = ''    
+            e_text.parentElement.style.display = ''
             f_text.parentElement.style.display = 'none'
             d_text.innerText = currentQuizData.d
             e_text.innerText = currentQuizData.e
             break;
         case 6:
-            d_text.parentElement.style.display = 'block'    
-            e_text.parentElement.style.display = 'block'
-            f_text.parentElement.style.display = 'block'
+            d_text.parentElement.style.display = ''    
+            e_text.parentElement.style.display = ''
+            f_text.parentElement.style.display = ''
             d_text.innerText = currentQuizData.d
             e_text.innerText = currentQuizData.e
             f_text.innerText = currentQuizData.f
