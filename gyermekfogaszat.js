@@ -22,7 +22,7 @@ let quizData = [
         a: "1.	tipikus,és a felső tejmoláris fog régióban jelentkezik",
         b: "2.	atipikus,és a felső nagymetszők között jelentkezik",
         c: "3.	atipikus,és az alsó nagymetsző régióban jelentkezik",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -30,7 +30,7 @@ let quizData = [
         a: "1.	Öt éves korban",
         b: "2.	Hat éves korban",
         c: "3.	Négy éves korban",
-        correct: "a",
+        correct: "c",
         },
         
         {
@@ -38,7 +38,7 @@ let quizData = [
         a: "1.	lokális tényezők",
         b: "2.	általános tényezők",
         c: "3.	intoxicatio",
-        correct: "a",
+        correct: "c",
         },
         
         {
@@ -46,7 +46,7 @@ let quizData = [
         a: "1.	kompozitok",
         b: "2.	amalgám",
         c: "3.	üvegionomér cementek",
-        correct: "a",
+        correct: "c",
         },
         
         {
@@ -54,7 +54,7 @@ let quizData = [
         a: "1.	túlzott cukorbevitel",
         b: "2.	vékony zománc-dentin réteg",
         c: "3.	tökéletlen szájhigiéné",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -78,7 +78,7 @@ let quizData = [
         a: "1.	a szuvas laesio ellátása",
         b: "2.	a rossz szokások kiküszöbölése",
         c: "3.	fluoridlakkos ecsetelés",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -86,7 +86,7 @@ let quizData = [
         a: "1.	spontán",
         b: "2.	inger hatására jelentkezik, az inger elmúltával megszűnik a fájdalom",
         c: "3.	inger hatására jelentkezik, az inger elmúltával a fájdalom megmarad",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -102,7 +102,7 @@ let quizData = [
         a: "1.	zománc-dentin határ",
         b: "2.	születési vonal",
         c: "3.	Nasmyth-membrán",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -110,7 +110,7 @@ let quizData = [
         a: "1.	ürisan pasztát",
         b: "2.	kálcium-hidroxid pasztát",
         c: "3.	cink-oxid eugenol pasztát",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -126,7 +126,7 @@ let quizData = [
         a: "1.	zománc lamellának nevezzük",
         b: "2.	infractió-nak nevezzük",
         c: "3.	extrusió-nak nevezzük",
-        correct: "a",
+        correct: "b",
         },
         
         {
@@ -134,7 +134,7 @@ let quizData = [
         a: "1.	a fog részlegesen kimozdul, de marad az alveolusban",
         b: "2.	a fog a hosszanti tengely irányában benyomódik a fogmederbe",
         c: "3.	a fog teljesen kimozdul az alveolusból",
-        correct: "a",
+        correct: "c",
         },
         
         {
@@ -142,7 +142,7 @@ let quizData = [
         a: "1.	túl korán előtört tejfogak",
         b: "2.	a fogléc fejletlen burjánzásai",
         c: "3.	számfeletti tejfogak",
-        correct: "a",
+        correct: "b",
         }
 ];
 
