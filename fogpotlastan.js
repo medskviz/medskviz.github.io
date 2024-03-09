@@ -30,7 +30,7 @@ question: "Öntött fémcsapot készítünk:",
 a: "1.	vitális fogakra",
 b: "2.	nemvitális fogakra",
 c: "3.	vitális és nemvitális fogakra",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -46,7 +46,7 @@ question: "A hídtestnek a fogatlan gerinchez való viszonyulása lehet:",
 a: "1.	vonalszerű",
 b: "2.	felületi",
 c: "3.	alámosható",
-correct: "a",
+correct: "b",
 },
 
 {
