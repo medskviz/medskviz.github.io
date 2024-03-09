@@ -22,7 +22,7 @@ question: "Mi a habituális okklúzió?",
 a: "1.	süllyedt harapás",
 b: "2.	megemelt harapás",
 c: "3.	az élet folyamán kialakult, szerzett harapás",
-correct: "a",
+correct: "c",
 },
 
 {
