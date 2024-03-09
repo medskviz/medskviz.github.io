@@ -62,7 +62,7 @@ question: "A Kennedy-féle osztályozásban a Kennedy IV. osztályba tartozik:",
 a: "1.	egyoldali sorvégi foghiány",
 b: "2.	sorközi foghiány a frontfogak tájékán",
 c: "3.	sorközi foghiány a laterális fogak tájékán",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -70,7 +70,7 @@ question: "A teljes kivehető lemezes fogpótlás szélei elhelyezendők:",
 a: "1.	Alapjával feszesen összenőtt nyálkahártya területén",
 b: "2.	Elmozdítható nyálkahártya területén",
 c: "3.	Elmozduló nyálkahártya területén",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -79,7 +79,7 @@ a: "1.	Sellak alaplemez",
 b: "2.	Harapási sablon",
 c: "3.	Rózsaszín viaszlemez",
 d: "4.	Mandzsetta (Keller-csík)",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -87,7 +87,7 @@ question: "Cink-oxid eugenol paszta elkészítésekor a tubusokból:",
 a: "1.	Egyforma vastagságú anyagot nyomunk ki",
 b: "2.	Egyforma hosszúságú anyagot nyomunk ki",
 c: "3.	Egyforma mennyiségű anyagot nyomunk ki",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -95,7 +95,7 @@ question: "Az ideiglenes koronák rögzítéséhez alkalmazzuk a/az:",
 a: "1.	Üveg-ionomér cementet",
 b: "2.	Cink-foszfát cementet",
 c: "3.	Cink-oxid készítményeket",
-correct: "a",
+correct: "c",
 },
 
 {
@@ -111,7 +111,7 @@ question: "A Jacket-koronához a demarkációs vonalr:",
 a: "1.	Tangenciális",
 b: "2.	Szögletes váll",
 c: "3.	lekerekített váll",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -119,7 +119,7 @@ question: "Milyen mintát kapunk a funkciós lenyomat alapján?",
 a: "1.	Anatómiai minta",
 b: "2.	Funkciós minta",
 c: "3.	Dublírozott mestermodell- munkaminta",
-correct: "a",
+correct: "b",
 },
 
 {
