@@ -33,7 +33,7 @@ a: "1.	Fogágygyulladást",
 b: "2.	Gingivagyulladást",
 c: "3.	Szájfenékgyulladást",
 d: "4.	Nyelvgyulladást",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -65,7 +65,7 @@ question: "A parodontális tasakok mélységét a következő eszközzel határo
 a: "1.	Fogászati szondával",
 b: "2.	Kalibrált parodontális mérőszondával",
 c: "3.	Heideman spatulával",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -75,7 +75,7 @@ b: "2.	A nyelv fejlődési rendellenessége",
 c: "3.	A nyelv atrófiája",
 d: "4.	A nyelv hypertrófiája",
 e: "5.	Fekete nyelv",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -83,7 +83,7 @@ question: "Szupraosszeális tasakoknál a csont resorpció:",
 a: "1.	Vertikális",
 b: "2.	Nincs csontszövet vesztés",
 c: "3.	Horizontális",
-correct: "a",
+correct: "c",
 },
 
 {
@@ -99,7 +99,7 @@ question: "Milyen eszköz a parodontológiában alkalmazott marker?",
 a: "1.	A parodontális tasak mélységét meghatározó eszköz",
 b: "2.	Fogvizsgálatra alkalmazott eszköz",
 c: "3.	Plakk identifikálására alkalmazott eszköz",
-correct: "a",
+correct: "c",
 },
 
 {
@@ -107,7 +107,7 @@ question: "Mi a halitosis?",
 a: "1.	A nyálmirigy megbetegedése",
 b: "2.	Gingivostomatitis ulcerosa tünete",
 c: "3.	A temporomandibuláris ízület betegsége",
-correct: "a",
+correct: "b",
 },
 
 {
@@ -116,7 +116,7 @@ a: "1.	Ínybetegség",
 b: "2.	A gyökérhártya betegsége",
 c: "3.	Fogágybetegség",
 d: "4.	A fogcement betegsége",
-correct: "a",
+correct: "c",
 },
 
 {
@@ -132,7 +132,7 @@ correct: "a",
 question: "Minek a következménye a fogkő képződése?",
 a: "1.	A dentális plakk kalcifikációja",
 b: "2.	A dentális plakk mineralizációja",
-correct: "a",
+correct: "c",
 },
 
 {
@@ -164,7 +164,7 @@ question: "Mi a gyökérhártya?",
 a: "1.	Fogágy",
 b: "2.	Kollagén típusú kötőszövet",
 c: "3.	a dentin és cement között elhelyezkedő kötőszövet",
-correct: "a",
+correct: "b",
 },
 
 {
