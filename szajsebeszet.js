@@ -23,7 +23,7 @@ let quizData = [
     a: "1.	2. nap után",
     b: "2.	7. nap után",
     c: "3.	nem távolítjuk el",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -33,7 +33,7 @@ let quizData = [
     c: "3.	hemofíliás betegek",
     d: "4.	cukorbetegek",
     e: "5.	gasztritiszes betegek",
-    correct: "a",
+    correct: "e",
     },
     
     {
@@ -43,7 +43,7 @@ let quizData = [
     c: "3.	Keményszájpad csontos megnagyobbodása",
     d: "4.	N.glosspharingeus parézis",
     e: "5.	N.facialis parézis",
-    correct: "a",
+    correct: "c",
     },
     
     {
@@ -51,7 +51,7 @@ let quizData = [
     a: "1.	konzervatívan",
     b: "2.	műtéttel",
     c: "3.	konzervatívan és műtéttel",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -61,7 +61,7 @@ let quizData = [
     c: "3.	Nervus palatinus scarpe",
     d: "4.	Nervus palatinus anterior",
     e: "5.	Nervus mandibularis",
-    correct: "a",
+    correct: "e",
     },
     
     {
@@ -70,7 +70,7 @@ let quizData = [
     b: "2.	vérbe",
     c: "3.	szövetekbe, ahol gennyes gócot képeznek",
     d: "4.	vérbe, ahol szaporodnak, és abscessust alkotnak",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -88,7 +88,7 @@ let quizData = [
     a: "1.	felső állcsontból",
     b: "2.	alsó állcsontból",
     c: "3.	felső és alsó állcsontból",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -109,7 +109,7 @@ let quizData = [
     d: "4.	Pincettával",
     e: "5.	Fogászati tükörrel",
     f: "6.	Szondával",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -136,7 +136,7 @@ let quizData = [
     b: "2.	csont nivellálásra",
     c: "3.	praemolárisok eltávolítására",
     d: "4.	szemfog eltávolítására",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -145,7 +145,7 @@ let quizData = [
     b: "2.	oroantralis kommunikáció (nyílt arcüreg)",
     c: "3.	arcüreg cysta",
     d: "4.	orr eredetű gyulladás az arcüregben",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -153,7 +153,7 @@ let quizData = [
     a: "1.	a fogíven kívül tört elő",
     b: "2.	nem tört elő, valamilyen etiológiai tényező miatt",
     c: "3.	nem tört elő, csírahiány miatt",
-    correct: "a",
+    correct: "b",
     },
     
     {
@@ -161,7 +161,7 @@ let quizData = [
     a: "1.	helyi érzéstelenítők",
     b: "2.	helyi érszűkítő szerek",
     c: "3.	inhalációs érzéstelenít",
-    correct: "a",
+    correct: "a",b,d
     },
 ];
 
