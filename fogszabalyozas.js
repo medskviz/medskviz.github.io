@@ -25,7 +25,7 @@ function shuffle(array) {
     c: "3.	C vitamin hiánya okoz",
     d: "4.	D vitamin hiánya okoz",
     e: "5.	E vitamin hiánya okoz",
-    correct: "a",
+    correct: "d",
     },
     
     {
@@ -45,7 +45,7 @@ function shuffle(array) {
     c: "3.	Első maradó moláris",
     d: "4.	Második maradó moláris",
     e: "5.	Első és második kisőrlő fog",
-    correct: "a",
+    correct: "c",
     },
     
     {
@@ -55,7 +55,7 @@ function shuffle(array) {
     c: "3.	Akromegália",
     d: "4.	Ajak-és szájpadhasad",
     e: "5.  Down-szindróma",
-    correct: "a",
+    correct: "b",
     },
         
     {
@@ -65,7 +65,7 @@ function shuffle(array) {
     c: "3.	Akromgália",
     d: "4.	Ajak-és szájpadhasadék",
     e: "5.	Down-szindróma",
-    correct: "a",
+    correct: "c",
     },
     
     {
@@ -75,7 +75,7 @@ function shuffle(array) {
     c: "3.	mélyharapást",
     d: "4.	nyitott harapást",
     e: "5.	keresztharapást",
-    correct: "a",
+    correct: "c",
     },
     
     {
@@ -85,7 +85,7 @@ function shuffle(array) {
     c: "3.	mélyharapást",
     d: "4.	nyitott harapást",
     e: "5.  keresztharapást",
-    correct: "a",
+    correct: "b",
     },
  
   ];
